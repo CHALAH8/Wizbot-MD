@@ -1,0 +1,25 @@
+{
+  "name": "Wizbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "King-switch",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "axios": "^1.7.9",
+    "baileys": "npm:manul-ofc-baileys-new@^1.0.0",
+    "chalk": "^4.0.0",
+    "cheerio": "^1.0.0",
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.13",
+    "path": "^0.12.7",
+    "pino": "^9.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "yt-search": "^2.13.1"
+  }
+}
